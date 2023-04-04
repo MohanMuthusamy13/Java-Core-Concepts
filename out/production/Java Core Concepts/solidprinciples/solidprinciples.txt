@@ -1,0 +1,14 @@
+SOLID PRINCIPLES
+
+☝️ SINGLE RESPONSIBILITY
+A class should have only one sole purpose.
+
+🙃 OPEN CLOSED
+A class should be open for extension and closed for modification.
+
+😉 LISKOV SUBSTITUTION
+The derived class should obey the contract of the base or parent class.
+
+😌 INTERFACE SEGREGATION
+Split the larger interfaces to smaller ones.
+Don't force classes to override methods that they can't do
